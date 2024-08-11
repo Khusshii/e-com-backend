@@ -1,2 +1,2 @@
 # e-com-backend
-backend for an e-commerce website usingn node.js
+Backend for an e-commerce website using node.js
